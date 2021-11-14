@@ -2,7 +2,7 @@
 
 I just use this page to take note what's [weird] in PHP.
 
-```markdown
+```php
 (0 == "whatever"); //return true >_<
 ```
 
